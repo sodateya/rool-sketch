@@ -1,12 +1,12 @@
 ---
-title: Privacy Policy — Swipe A Sketch
+title: Privacy Policy — Rool Sketch
 ---
 
-# Privacy Policy for Swipe A Sketch
+# Privacy Policy for Rool Sketch
 
 **Effective date: July 7, 2026**
 
-This Privacy Policy explains how the mobile application **Swipe A Sketch** ("the App", "we", "us") collects, uses, and protects your information. By using the App, you agree to the practices described here.
+This Privacy Policy explains how the mobile application **Rool Sketch** ("the App", "we", "us") collects, uses, and protects your information. By using the App, you agree to the practices described here.
 
 You can use most of the App — drawing, saving sketches locally, adjusting settings, and creating time-lapse recordings — **without creating an account**. Some optional features (such as syncing your profile and unlocking additional content) require you to sign in.
 
