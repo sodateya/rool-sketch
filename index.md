@@ -1,8 +1,8 @@
 ---
-title: Rool Sketch
+title: Roll Sketch
 ---
 
-# Rool Sketch
+# Roll Sketch
 
 ## Privacy Policy / プライバシーポリシー
 
